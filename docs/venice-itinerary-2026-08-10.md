@@ -82,8 +82,13 @@ outside two or three bars in sequence:
   grilled *spiedini*, and you can sit on the wooden boat moored in the canal.
 
 Ask for *un'ombra* — a small glass of wine, named for the shade of the Campanile, where
-wine sellers once parked their carts to keep it cool. Reckon €25–35 a head with four
-glasses.
+wine sellers once parked their carts to keep it cool. Reckon €25–35 with four glasses.
+
+> **This is the right format for eating alone.** A table for one in a Venetian restaurant
+> in August is both hard to get and slightly bleak; a counter where everyone is standing
+> is neither. Order two or three things, finish your glass, move to the next bar. Nobody
+> will think anything of it, and the Misericordia in August is busy enough at ten at
+> night to feel sociable rather than empty.
 
 **23:00 — Bed.** Six and a half hours' sleep. It's the correct trade: the hour you're
 buying tomorrow morning is the best hour this city has, and it isn't available at any
@@ -106,6 +111,13 @@ visit. Then south into the **Ghetto Nuovo** — the first ghetto in Europe, 1516
 reason the word exists. The buildings are freakishly tall for Venice: confined to one
 island, they could only build upward. At 06:30, with nobody in the campo, it lands very
 differently than it does at noon.
+
+> **Walking this alone at six in the morning is fine.** Venice has essentially no street
+> crime and no traffic, and northern Cannaregio at dawn has bakers, bin barges and
+> commuters in it rather than nobody. The real hazards are duller: unlit steps, slick
+> algae on the lower fondamente, and GPS being close to useless between tall buildings.
+> Screenshot the route before you go, and if you get turned around, follow the yellow
+> *Per Rialto* signs painted on the walls.
 
 **07:15 — The two-euro gondola.** At Ca' d'Oro, find the **Santa Sofia traghetto** — a
 stripped-out gondola ferrying locals straight across the Grand Canal. €2, sixty seconds,
@@ -224,21 +236,27 @@ A 21:30 or even 22:30 departure is comfortable, so the Bologna end is genuinely 
 
 ---
 
-## Five things I've assumed
+## Calibrate this to your front door
 
-1. **Walking times assume a Cannaregio base** near the Misericordia or Strada Nova. If
-   you're out towards Sant'Alvise or Fondamente Nove, add ten minutes to everything and
-   say so — I'll re-cut the dawn route.
-2. **Cicchetti is heavily seafood** — baccalà, sarde, folpetti. If that doesn't work for
-   you, I'll rebuild both meals; there are good alternatives on the same street.
-3. **You're comfortable walking 12–15 km** over the two days, almost all on stone with
-   bridge steps. There's no way to see Venice otherwise, but the plan can shift onto the
-   water.
-4. **Solo or with someone?** Nothing here needs a reservation, which is deliberate — but
-   for two or more I'd book a table at Anice Stellato or Osteria da Rioba instead of the
-   crawl.
-5. **I could not reach the live rail timetable,** so the 15:20 is a target, not a train
-   I've verified. Confirm before booking.
+Cannaregio runs a good kilometre and a half end to end, so "Cannaregio" on its own is
+worth about ten minutes either way. Find your row and apply the adjustment — the sequence
+never changes, only the departure times.
+
+| If you're near… | Ferrovia | Misericordia | Rialto | Adjust |
+|---|---:|---:|---:|---|
+| **Lista di Spagna / Santa Lucia** (west end, by the station) | 5 min | 18 min | 25 min | Leave for dinner 21:35. Easiest station run tomorrow — leave the hotel at 14:25. |
+| **Strada Nova / Ca' d'Oro** (the middle — most likely) | 12 min | 8 min | 8 min | Run the plan exactly as written. This is what the times assume. |
+| **Misericordia / Ormesini** (the bacaro street itself) | 15 min | 2 min | 14 min | Best case. Dinner is downstairs and the dawn walk starts at your door — lie in until 06:15. |
+| **Fondamente Nove / Sant'Alvise** (north and east edge) | 22 min | 12 min | 16 min | Add 10 min to every leg. Start the dawn walk at 05:55 and run it in reverse — Ghetto first, Madonna dell'Orto last. |
+
+Still open:
+
+1. **Send the hotel name or its Cannaregio number** and I'll replace this table with real
+   times. Google Maps short links are blocked at this machine's proxy.
+2. **You're walking 12–15 km across the two days,** almost all on stone with bridge
+   steps, and August is 28–33 °C. Shoes matter more than usual.
+3. **The 15:20 train is a target, not a departure I've verified** — the live timetable
+   was unreachable. Confirm on the Trenitalia or Italo app before booking.
 
 ---
 
