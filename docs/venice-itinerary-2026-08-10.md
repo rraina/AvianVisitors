@@ -90,6 +90,11 @@ wine sellers once parked their carts to keep it cool. Reckon €25–35 with fou
 > will think anything of it, and the Misericordia in August is busy enough at ten at
 > night to feel sociable rather than empty.
 
+> **The one beef trap in Venice:** *polpette*, the fried meatballs on almost every bacaro
+> counter, are usually beef or veal. Everything else you want here — baccalà, sarde,
+> folpetti, *schie*, prosciutto crostini — is fish or pork. Point and ask *"di cosa sono?"*
+> before you take one.
+
 **23:00 — Bed.** Six and a half hours' sleep. It's the correct trade: the hour you're
 buying tomorrow morning is the best hour this city has, and it isn't available at any
 other price.
@@ -184,26 +189,117 @@ a day; fastest 1h33, most closer to 1h50, putting you in Bologna by ~17:10.
 
 ---
 
-## After Venice — Bologna, then Modena
+## After Venice — Bologna, Tuesday evening
 
-Landing at 17:10 gives you until ~21:00, and you arrive precisely at aperitivo hour,
-which is when Bologna is at its best.
+Landing at 17:10 puts you in the centre at the best possible moment: the Quadrilatero at
+opening-of-the-evening, sunset at 20:20, and trains to Modena running late. The route is
+a single arc — station, square, market, towers, dinner, station — with no backtracking.
 
-- **Walk in via Via dell'Indipendenza** — fifteen minutes from Centrale to Piazza
-  Maggiore, under porticoes the whole way.
-- **The Quadrilatero** (Via Pescherie Vecchie, Via Drapperie) — the medieval market
-  quarter, Bologna's answer to the Rialto. Mortadella, tortellini, Pignoletto drunk
-  standing in the lane at 18:30.
-- **San Petronio** on the square — still unfinished after six centuries, with Cassini's
-  1655 meridian line inlaid down the north aisle, the longest in the world.
-- **Assume the Asinelli tower is shut.** Closed to climbers since late 2023 while the
-  leaning Garisenda next door is stabilised; the 2026 works are still unscheduled. Check
-  bolognawelcome.com before building an evening around it.
-- **Eat tagliatelle al ragù** — and do not ask for spaghetti bolognese. The dish does not
-  exist here.
+> **One casualty of the 15:20 train.** The Anatomical Theatre at the Archiginnasio — a
+> 1647 dissection room carved entirely in spruce, watched over by two statues of flayed
+> men — takes its **last August admission at 17:20**, and you reach the centre at ~17:35.
+> You miss it by fifteen minutes. Recovering it would cost you the Basilica in Venice,
+> which is not a trade worth making.
 
-Bologna → **Modena** is a 20–25 minute regionale, ~€4–5, running frequently until late.
-A 21:30 or even 22:30 departure is comfortable, so the Bologna end is genuinely elastic.
+**17:10 — Drop the bag before anything else.** **KiPoint**, Piazzale Ovest inside Bologna
+Centrale, is the station's official left luggage; independent depots just outside run
+from about €5. Do not carry a bag round Bologna for four hours in August.
+
+**17:25 — Via dell'Indipendenza to Piazza Maggiore (15 min).** You're under **porticoes
+essentially the whole way**. Bologna has 62 km of them, UNESCO-listed since 2021; they
+exist because the medieval university took in more students than the city could house, so
+citizens were allowed to extend upper floors over the public street provided the arch
+stayed tall enough for a man on horseback.
+
+**17:40 — San Petronio and the longest sundial on earth (30 min).** Get in before it
+shuts around 18:00–18:30. The facade is marble for the lower third and raw brick above:
+construction stopped in the 1500s, and the story Bolognesi tell is that Rome cut the
+funding because the church was on course to be bigger than St Peter's. Inside, down the
+left aisle, runs **Cassini's meridian line of 1655** — 67 m of inlaid brass with a hole in
+the vault 27 m above. The largest astronomical instrument ever built into a building, and
+the observations taken on it confirmed the Earth's orbit is an ellipse.
+
+**18:10 — Neptune, then the Roman city under glass (10 min).** Giambologna's **Fontana del
+Nettuno** (1566), then into the **Biblioteca Salaborsa** on Piazza del Nettuno — free,
+open into the evening, with a glass floor over the excavated Roman and Etruscan street
+below. Five minutes, no ticket, almost no visitors.
+
+**18:20 — The Quadrilatero: shop, don't just look (40 min).** Via Pescherie Vecchie, Via
+Drapperie, Via Caprarie, Via Clavature — the medieval trade quarter, still organised by
+guild. You're here to buy your own dinner-before-dinner. Go to **Salumeria Simoni
+Laboratorio** (Via Pescherie Vecchie 3b) for **mortadella di Bologna IGP** sliced
+paper-thin in front of you, plus *squacquerone* and bread. **Tamburini** (Via Caprarie 1)
+is the other great one. Both pork, both beef-free.
+
+**19:00 — Osteria del Sole, open since 1465, and it has no kitchen (45 min).** Vicolo
+Ranocchi 1D, hidden off Via Pescherie Vecchie. The **oldest osteria in Italy still
+trading**; it sells wine and nothing else and never has sold anything else — you bring the
+food you just bought and they pour you a glass for a few euros. Communal tables, cash
+only, Mon–Sat until 21:30.
+
+> This is the single best thing you'll do in Bologna, and it's close to perfect solo: you
+> sit down at a shared table with your paper of mortadella, and within ten minutes someone
+> has asked where you're from. **Bring cash.**
+
+**19:45 — Santo Stefano at golden hour, then the towers at dusk (40 min).** Sunset is
+~20:20. Walk seven minutes southeast to **Piazza Santo Stefano** — sloping, asymmetric,
+brick-and-portico, the loveliest square in the city, fronted by the *Sette Chiese*, seven
+interlocking churches built into each other since the 5th century. The churches will have
+closed; the square is the point. Then back to **Le Due Torri** for dusk — and **assume the
+Asinelli is shut to climbers**, closed since late 2023 while the leaning Garisenda beside
+it is stabilised, 2026 works still unscheduled.
+
+**20:30 — Dinner at Osteria dell'Orsa (65 min).** Via Mentana 1F, ten minutes north in the
+university quarter. Open daily until late, **takes no reservations**, communal tables,
+pasta around €10 — the easiest table in Bologna to get alone and the least awkward to sit
+at alone. Expect a wait at 20:30 in August; it moves. **Order the tortelloni burro e
+salvia.**
+
+> If the queue is grim: **Mercato di Mezzo** (Via Clavature 12) is a covered food hall open
+> late with no waiting, and **Trattoria Anna Maria** (Via Belle Arti 17a) is a minute away
+> and takes bookings — worth phoning from the train.
+
+**21:40 — Back to Centrale, on to Modena (15 min walk).** Osteria dell'Orsa sits roughly
+halfway between the towers and the station. **Modena is a 20–25 minute regionale, ~€4–5**,
+no seat reservation needed — buy at the machine and validate before boarding.
+
+> Sources disagree on the last departure, giving anything between **22:18 and 23:52**.
+> Target ~22:00 and check the real time on the Trenitalia app over dinner. Don't plan to
+> catch the last one.
+
+---
+
+## Eating in Bologna without beef
+
+Be clear-eyed: **ragù alla bolognese is beef** — beef and pancetta, per the recipe formally
+deposited with the Bologna chamber of commerce in 1982. Tagliatelle al ragù and lasagne
+verdi are both out, and they're the two dishes the city is famous for. Cotoletta alla
+bolognese is veal, so that goes too.
+
+What's left is not a consolation prize. Ask a Bolognese which pasta they'd actually choose
+and a surprising number say tortelloni.
+
+| Order this | What it is, and why it's safe |
+|---|---|
+| **Tortelloni burro e salvia** — your headline dish | Large hand-folded parcels of *ricotta and parsley* — no meat at all — dressed in nothing but browned butter and sage. Completely traditional, and the purest test of a kitchen's sfoglia there is. |
+| **Tortellini in brodo** — ask one question first | The filling is pork loin, mortadella, prosciutto and Parmigiano — **no beef in it**. The catch is the broth: orthodox recipe says capon, but plenty of kitchens use mixed capon-and-beef. Ask; if it's clean, order it. This is the city's sacred dish. |
+| **Mortadella di Bologna IGP** | Pure pork, studded with fat and often pistachio, sliced tissue-thin. Your Osteria del Sole purchase. |
+| **Gnocco fritto / crescentine** | Pillows of dough fried until they puff, torn open hot with cured pork and soft cheese inside. |
+| **Squacquerone di Romagna DOP** | Spreadable, faintly sour fresh cheese, often with fig jam. A perfect foil to the mortadella. |
+| **Garganelli or strozzapreti** | Egg-pasta shapes usually dressed with sausage, or prosciutto and peas — ask which sauce, but rarely beef. |
+| **Friggione** | Onions and tomato cooked down for hours into something jammy. The humblest thing in the repertoire, entirely vegetable, served as a side. |
+| **Zuppa inglese** | Sponge soaked in scarlet alchermes under custard. Emilian, old, and nothing like an English trifle. |
+| **Pignoletto** — what to drink | The dry, faintly sparkling white of the Colli Bolognesi, what the Quadrilatero drinks standing up. Save Lambrusco for tomorrow — that belongs to Modena. |
+
+> **The sentence to have ready:** *"Non mangio manzo né vitello, ma mangio maiale."* — I
+> don't eat beef or veal, but I do eat pork. Say it that way round rather than "no meat",
+> because Italian keeps *manzo*, *vitello* and *maiale* as separate categories, and a
+> blanket *"niente carne"* would strip out the mortadella and the tortellini filling you
+> actually want. Then: *"Il brodo è solo di cappone?"* — is the broth capon only?
+
+And whatever else happens: **do not ask for spaghetti bolognese.** It does not exist here,
+has never existed here, and asking for it in Bologna lands roughly the way asking for
+deep-dish pizza in Naples would.
 
 ---
 
@@ -268,3 +364,8 @@ Still open:
 - [ACTV integrated fares 2026](https://actv.avmspa.it/en/content/integrated-fares-0)
 - [St Mark's Campanile — visiting hours](https://www.sanmarco-venezia.it/en/visiting-hours)
 - [Bologna Welcome — the Two Towers](https://www.bolognawelcome.com/en/places/towers-historic-buildings/the-two-towers-garisenda-and-degli-asinelli-eng)
+- [Basilica di San Petronio — opening hours](https://www.basilicadisanpetronio.org/en/info-and-opening-hours/)
+- [Archiginnasio & Teatro Anatomico — August admission times](https://www.bolognawelcome.com/en/experiences/331861/Palazzo-dell-Archiginnasio-and-Teatro-Anatomico---Guided-or-audio-guided-tour)
+- [Osteria del Sole — Bologna Welcome](https://www.bolognawelcome.com/en/clubs/typical-bolognese-tavern/osteria-del-sole-en)
+- [Osteria dell'Orsa — Bologna Welcome](https://www.bolognawelcome.com/en/clubs/typical-bolognese-tavern/osteria-dellorsa-2)
+- [KiPoint left luggage, Bologna Centrale](https://www.kibag.it/en/deposito-bagagli-bologna/deposito-kipoint-bologna-centrale/)
