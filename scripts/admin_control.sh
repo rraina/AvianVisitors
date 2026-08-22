@@ -116,6 +116,7 @@ valid_config_value() {
       [[ "$value" =~ ^[0-9]{1,2}$ ]] && [ "$value" -ge 50 ] && [ "$value" -le 99 ]
       ;;
     FULL_DISK) [ "$value" = purge ] || [ "$value" = keep ] ;;
+    COLLAGE_LABELS) [ "$value" = on ] || [ "$value" = off ] ;;
     SITE_NAME)
       [ "${#value}" -le 60 ] && [[ "$value" =~ ^[A-Za-z0-9\ _.,\047-]*$ ]]
       ;;

@@ -776,9 +776,27 @@
   // little of that permission as the complaint allows.
   var LABEL_CURL = 68;
   var labelParam = /[?&]labels=(1|0)\b/.exec(location.search);
+  // Three layers, like the theme: ?labels=1|0 (how a frame's shoot forces a
+  // value without localStorage), then this device's own choice, then the
+  // station's COLLAGE_LABELS - which rides on the recent payload because this
+  // page is anonymous and config.php is not. Absent means on, the historic
+  // default, so a collage against an older station looks exactly as before.
+  function siteLabels() {
+    var r = DATA && DATA.recent;
+    return (r && typeof r.labels === 'boolean') ? r.labels : true;
+  }
+  // 'site' | 'on' | 'off'. A device that never touched the switch has no key
+  // and follows the site; one that did keeps its choice, because the old
+  // handler only ever wrote on a click, so a stored value is a real decision.
+  function labelPreference() {
+    var v = readLS('bird:labels', 'site');
+    return (v === 'on' || v === 'off') ? v : 'site';
+  }
   function labelsOn() {
     if (labelParam) return labelParam[1] === '1';
-    return readLS('bird:labels', 'on') === 'on';
+    var pref = labelPreference();
+    if (pref !== 'site') return pref === 'on';
+    return siteLabels();
   }
   var labelCtx = document.createElement('canvas').getContext('2d');
   var edgeFitCache = {};
@@ -5570,16 +5588,14 @@
   // Client-side collage-labels switcher; same instant-apply pattern as
   // the theme row (data-labels-seg keeps it out of the Pi config flow).
   function labelsRow() {
-    // Same default as labelsOn(), or the switch reads off on a fresh device
-    // while the collage is drawing names.
-    var cur = readLS('bird:labels', 'on');
+    var cur = labelPreference();
     var btn = function (v, label) {
       return '<button type="button" data-labels="' + v + '" aria-current="' + (cur === v ? 'true' : 'false') + '">' + label + '</button>';
     };
     return ''
       + '<div class="menu-row">'
-      + '  <div><span class="label">Bird names</span><span class="hint">show names alongside birds in the collage</span></div>'
-      + '  <div class="seg" data-labels-seg><i class="seg-pill" aria-hidden="true"></i>' + btn('off', 'off') + btn('on', 'on') + '</div>'
+      + '  <div><span class="label">Bird names on this device</span><span class="hint">site follows the station setting below</span></div>'
+      + '  <div class="seg" data-labels-seg><i class="seg-pill" aria-hidden="true"></i>' + btn('site', 'site') + btn('off', 'off') + btn('on', 'on') + '</div>'
       + '</div>';
   }
   function atlasAlwaysAllRow() {
@@ -5650,6 +5666,9 @@
         if (res.ok && res.j.ok) {
           pending = {};
           setSaveState('saved ✓', 'ok');
+          // COLLAGE_LABELS travels on the recent payload, so re-fetch it and
+          // the collage follows at once instead of on the next timer.
+          try { refreshRecent(false); } catch (e) { }
           setTimeout(function () { setSaveState(''); }, 1800);
         } else {
           setSaveState('save failed', 'err');
@@ -7104,6 +7123,10 @@
           + '<section>'
           + themeRow()
           + labelsRow()
+          + settingsSegmented('COLLAGE_LABELS', 'Bird names', 'the station default: every device set to site, and every frame rendered from this station', v.COLLAGE_LABELS || 'on', [
+            { v: 'off', label: 'off' },
+            { v: 'on', label: 'on' },
+          ])
           + atlasAlwaysAllRow()
           + '</section><section>'
           + settingsSlider('CONFIDENCE', 'Confidence threshold', 'min score to log a detection', v.CONFIDENCE, 0.1, 0.95, 0.05, 2, 0.7)
@@ -7171,7 +7194,8 @@
         if (labelsSeg) labelsSeg.addEventListener('click', function (ev) {
           var b = ev.target.closest('button[data-labels]');
           if (!b) return;
-          writeLS('bird:labels', b.getAttribute('data-labels'));
+          var chosen = b.getAttribute('data-labels');
+          writeLS('bird:labels', (chosen === 'on' || chosen === 'off') ? chosen : 'site');
           [].forEach.call(labelsSeg.querySelectorAll('button'), function (x) {
             x.setAttribute('aria-current', x === b ? 'true' : 'false');
           });
