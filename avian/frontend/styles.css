@@ -2531,7 +2531,7 @@ body.postcard-open { overflow: hidden; }
     .atlas-grid .bird-card h3 { font-size: 12.5px; }
     .atlas-grid .bird-card .sci { font-size: 9.5px; }
     .atlas-grid .bird-card .actions { display: none; }
-    .atlas-grid .lifer-badge { top: 9px; right: 9px; font-size: 7px; padding: 3px 5px; letter-spacing: 0.1em; }
+    .atlas-grid .stamp-card[data-fresh="1"]::after { font-size: 7px; padding: 3px 5px; letter-spacing: 0.1em; }
   }
   .bird-card {
     position: relative;
@@ -2553,10 +2553,21 @@ body.postcard-open { overflow: hidden; }
     color: var(--ink-soft); letter-spacing: 0.04em;
   }
   /* "lifer" badge - shown top-right when a species' first-ever detection
-     falls inside the selected window (set in renderAtlas). pointer-events
-     off so it never blocks the card's click-to-open. */
-  .lifer-badge {
-    position: absolute; top: 12px; right: 12px; z-index: 2;
+     falls inside the selected window (data-fresh, set in renderAtlas).
+     Drawn from the attribute rather than a child element on purpose:
+     commitAtlasMarkup transplants unchanged cards across a re-render and
+     re-syncs only their dataset, so a child badge would linger on a card
+     whose species has since aged out of the window. pointer-events off so
+     it never blocks the card's click-to-open. */
+  .stamp-card[data-fresh="1"]::after {
+    content: "lifer";
+    /* Sits just under the stamp's header band, in the plate's top-right.
+       The old 12px/12px corner belonged to the pre-stamp card, where that
+       corner was empty; on a stamp it lands squarely on the binomial. Every
+       family template puts its subject low and/or right, so the plate's
+       upper-right is the one region that is reliably clear. Percentages so
+       the placement holds as --slot-w/h shrink on small screens. */
+    position: absolute; top: 23%; right: 8%; z-index: 2;
     font: 700 8px/1 ui-monospace, Menlo, monospace;
     letter-spacing: 0.14em; text-transform: uppercase;
     color: var(--paper); background: var(--accent);
